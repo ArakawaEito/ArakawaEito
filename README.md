@@ -20,7 +20,7 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArakawaEito&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaEito&theme=ocean-gradient&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 
 <!--
