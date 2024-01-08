@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" **alt="anaconda" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" **alt="docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" **alt="jupyter" width="40" height="40"/>
@@ -31,8 +32,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" **alt="vuejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" **alt="ssh" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" title="apache" **alt="apache" width="40" height="40"/>
 </div>
-i=python,js,typescript,dart,nest,django,fastapi,mongodb,sqlite,prisma,github,vscode"
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaEito&theme=ocean-gradient&hide_border=true&border_radius=10)](https://git.io/streak-stats)
