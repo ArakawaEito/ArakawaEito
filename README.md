@@ -1,5 +1,7 @@
-# Hi there 👋, I'm Eito Arakawa
-🎓I’m working on my master’s degree, currently learning about Artificial Intelligence.
+### Hi there 👋, I'm Eito Arakawa
+
+🎓I’m working on my master’s degree, currently learning about **Artificial Intelligence**.
+---
 
 
 ### :fire: My Stats :
