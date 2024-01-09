@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Eito Arakawa
 
-🎓I’m working on my master’s degree, currently learning about **Artificial Intelligence**.
+🎓I’m working on my master’s degree, currently learning about **Artificial Intelligence**.  
+🏅Certification : 日本珠算連盟暗算段位認定試験 初段, 統計検定2級, Linux Professional Institute Linux Essentials, etc.
 
 
 ## :fire: My Stats :
