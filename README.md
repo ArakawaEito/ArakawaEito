@@ -2,13 +2,11 @@
 
 🎓I’m working on my master’s degree, currently learning about **Artificial Intelligence**.
 
----
 
-
-### :fire: My Stats :
+## :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArakawaEito&theme=ocean-gradient&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-### ⚡ Languages and Tools :
+## ⚡ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" **alt="tensorflow" width="40" height="40"/>&nbsp;
